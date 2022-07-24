@@ -1,0 +1,25 @@
+{
+  "name": "accountcreatorsheyapl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.24.0"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nickname-generator": "^1.1.1",
+    "node-clipboardy": "^1.0.3",
+    "playwright": "^1.24.0",
+    "playwright-extra": "^4.3.3",
+    "puppeteer": "^15.5.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.0",
+    "random-node": "^1.0.3"
+  }
+}
